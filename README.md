@@ -8,9 +8,21 @@ Projeto OriginSix  (Site Beautysalon) - Desenvolvido acompanhando NLW da Rockets
 
 
 
-#### Principal
-![image](https://github.com/JoaoVitor-Dev/Cadastro-de-Clientes-Web/blob/main/github/1.PNG)
+#### Home
+![image](https://github.com/JoaoVitor-Dev/Projeto-OriginSix-Site-/blob/main/github/01.png)
 
-#### Formulario em Modal
+#### Sobre
 
-![image](https://github.com/JoaoVitor-Dev/Cadastro-de-Clientes-Web/blob/main/github/2.PNG)
+![image](https://github.com/JoaoVitor-Dev/Projeto-OriginSix-Site-/blob/main/github/02.png)
+
+#### Serviços
+
+![image](https://github.com/JoaoVitor-Dev/Projeto-OriginSix-Site-/blob/main/github/03.png)
+
+#### Depoimentos
+
+![image](https://github.com/JoaoVitor-Dev/Projeto-OriginSix-Site-/blob/main/github/04.png)
+
+#### Contato
+
+![image](https://github.com/JoaoVitor-Dev/Projeto-OriginSix-Site-/blob/main/github/05.png)
